@@ -1,0 +1,8 @@
+pandas
+flask
+beautifulsoup4
+plotly
+matplotlib
+numpy
+requests
+babel
